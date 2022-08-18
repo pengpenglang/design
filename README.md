@@ -7,7 +7,7 @@
 
 设计模式分为三种类型共23类，如下图
 
-<img src="design.assets/aefc6eb7f5ba13216d5f21051327816e.png" alt="img" height="80%" width="80%" />
+<img src="README.assets/aefc6eb7f5ba13216d5f21051327816e.png" alt="img" height="80%" width="80%" />
 
 - 创建型模式：对象实例化的模式，用于解耦对象的实例化过程
 - 结构性模式：把类和对象结合在一起形成一个更大的结构
@@ -324,95 +324,95 @@ public interface MyInterface{
 
 ## 单例模式
 
-![img](design.assets/0620bf3ea621cf5d03bb041a736604d1.png)
+![img](README.assets/0620bf3ea621cf5d03bb041a736604d1.png)
 
 ## 工厂模式
 
-![img](design.assets/79f7284c07d3d5228bd4409026d9be1b.png)
+![img](README.assets/79f7284c07d3d5228bd4409026d9be1b.png)
 
 ## 抽象工厂模式
 
-![img](design.assets/682fb34f125436de5830bc265fb1bb2b.png)
+![img](README.assets/682fb34f125436de5830bc265fb1bb2b.png)
 
 ## 建造者模式
 
-![img](design.assets/02ca8c9afcb85e01399f1040a563bcf6.png)
+![img](README.assets/02ca8c9afcb85e01399f1040a563bcf6.png)
 
 ## 原型模式
 
-![img](design.assets/9f7e060093a2000677389d02aa084471.png)
+![img](README.assets/9f7e060093a2000677389d02aa084471.png)
 
 ## 适配器模式
 
-![img](design.assets/af7fd7bb5f3de1b9761b4c7b53236949.png)
+![img](README.assets/af7fd7bb5f3de1b9761b4c7b53236949.png)
 
 ## 桥接模式
 
-![img](design.assets/a05859384c384c4c621d455018a2caea.png)
+![img](README.assets/a05859384c384c4c621d455018a2caea.png)
 
 ## 组合模式
 
-![img](design.assets/94461c3feed123ce4c302f6608054865.png)
+![img](README.assets/94461c3feed123ce4c302f6608054865.png)
 
 ## 装饰器模式
 
-![img](design.assets/f8f9ad5fc4cc05a37ad456c414117ba1.png)
+![img](README.assets/f8f9ad5fc4cc05a37ad456c414117ba1.png)
 
 ## 外观模式
 
-![img](design.assets/0bf59de1a3a157c4aa70283b71881168.png)
+![img](README.assets/0bf59de1a3a157c4aa70283b71881168.png)
 
 ## 享元模式
 
-![img](design.assets/c2c68ac574cebdd0027bc078418ebbd5.png)
+![img](README.assets/c2c68ac574cebdd0027bc078418ebbd5.png)
 
 ## 代理模式
 
-![img](design.assets/488c0eacda17deba12e51fc9d538acd5.png)
+![img](README.assets/488c0eacda17deba12e51fc9d538acd5.png)
 
 ## 访问者模式
 
-![img](design.assets/897373e985badc5859ee077c9bbfb629.png)
+![img](README.assets/897373e985badc5859ee077c9bbfb629.png)
 
 ## 模板模式
 
-![img](design.assets/de3e61726a9f51200f09670843db67c4.png)
+![img](README.assets/de3e61726a9f51200f09670843db67c4.png)
 
 ## 策略模式
 
-![img](design.assets/3dda2ad3ddb9f24d2e745866e4dd0b68.png)
+![img](README.assets/3dda2ad3ddb9f24d2e745866e4dd0b68.png)
 
 ## 状态模式
 
-![img](design.assets/89ca9e973f334bc85103f764c061bdbb.png)
+![img](README.assets/89ca9e973f334bc85103f764c061bdbb.png)
 
 ## 观察者模式
 
-![img](design.assets/7cec514b3e3a181971f2b998c49c1980.png)
+![img](README.assets/7cec514b3e3a181971f2b998c49c1980.png)
 
 ## 备忘录模式
 
-![img](design.assets/d45dca3a83bba1491d297e43926da845.png)
+![img](README.assets/d45dca3a83bba1491d297e43926da845.png)
 
 ## 中介者模式
 
-![img](design.assets/ee489ff39414d15652ae3e472e32b5cc.png)
+![img](README.assets/ee489ff39414d15652ae3e472e32b5cc.png)
 
 ## 迭代器模式
 
-![img](design.assets/a1daf9fa4cd89ac4d6170a69543d7ed1.png)
+![img](README.assets/a1daf9fa4cd89ac4d6170a69543d7ed1.png)
 
 ## 解释器模式
 
-![img](design.assets/7a615dcb9b72e821506e790fbb027206.png)
+![img](README.assets/7a615dcb9b72e821506e790fbb027206.png)
 
 ## 命令模式
 
-![img](design.assets/48006515e3322094d753b37077033266.png)
+![img](README.assets/48006515e3322094d753b37077033266.png)
 
 ## 责任链模式
 
-![img](design.assets/d569504427a7c953d519a09a4953c294.png)
+![img](README.assets/d569504427a7c953d519a09a4953c294.png)
 
 # 🔗资料参考
 
